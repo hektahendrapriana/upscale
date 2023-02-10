@@ -56,3 +56,8 @@ limit : number of limit (format Number)
 page : page you want to select (format Number)
 
 example : http://localhost:9000/upscale?filter=membuat&fields=judul,selesai&sort=judul&order=1&limit=100&page=1
+
+
+### `COLLECTIONS`
+Collections MongoDB on folder collections DB
+Collections POSTMAN on folder POSTMAN COLLECTIONS
