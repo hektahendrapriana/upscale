@@ -11,7 +11,7 @@ This project was bootstrapped with [API UPSCALE](https://github.com/hektahendrap
 *   MONGO_URI=""mongodb://127.0.0.1:27017/upscale"
 *   FRONTEND_URL=http://localhost:3000
 *   BECKEND_URL=http://localhost:9000/upscale
-*   USE_REDIS=true
+*   USE_REDIS=false
 *   REDIS_HOST=127.0.0.1
 *   REDIS_PORT=6379
 
