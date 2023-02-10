@@ -1,6 +1,14 @@
 # upscale - API
 
-This project was bootstrapped with [API UPSCALE](https://github.com/hektahendrapriana/upscale).
+This project : [API UPSCALE](https://github.com/hektahendrapriana/upscale).
+
+### `git clone https://github.com/hektahendrapriana/upscale.git `
+
+After finish, go to folder and then run this :
+
+### `npm install`
+
+Wait until installations finish and then
 
 > **copy to .env**
 
