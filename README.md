@@ -1,6 +1,6 @@
 # upscale - API
 
-This project was bootstrapped with [Create React App](https://github.com/hektahendrapriana/upscale).
+This project was bootstrapped with [API UPSCALE](https://github.com/hektahendrapriana/upscale).
 
 > **copy to .env**
 
