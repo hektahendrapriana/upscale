@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "63e6a106a9699c1dec7b51f8"
+  },
+  "selesai": true,
+  "judul": "Membuat table user",
+  "deskripsi": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1676058886466"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1676058886466"
+    }
+  }
+}]
